@@ -9,3 +9,4 @@ Side by side
 We're marching into destiny
 
 Master conflict line
+Feature conflict line
