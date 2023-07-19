@@ -11,4 +11,5 @@ We're marching into destiny
 Master conflict line
 Feature conflict line
 
-New content for testing stashing function
+First feature branch commit
+Second feature branch commit
